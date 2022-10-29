@@ -2,6 +2,9 @@
   "name": "webui-aria2",
   "version": "1.0.0",
   "description": "The aim for this project is to create the worlds best and hottest interface to interact with aria2.",
+  "engines": {
+    "node": "18.x"
+  },
   "homepage": "https://github.com/ziahamza/webui-aria2#readme",
   "license": "MIT",
   "scripts": {
